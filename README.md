@@ -1,2 +1,3 @@
 # AMC-Net
-All the blocks of AMC-Net is coded in the AMC.py file
+Here we have kept the Model architechture and weights
+Also kept test sample to produce the result
