@@ -1,7 +1,7 @@
 # AMC-Net
 Here we have kept the Model architechture and weights
 
-Also kept test sample to produce the result
+Also kept test samples of the generated results
 
 The folder scan contains slices from CT
 
