@@ -3,7 +3,7 @@ Here we have kept 10 Model architectures and weights inside the folder "Model" a
 
 Also kept test samples of the generated results.
 
-The folder "scan" contains slices from CT.
+The folder "scans" contains slices from CT.
 
 The folder "gt" contains the ground truth of the corresponding CT.
 
