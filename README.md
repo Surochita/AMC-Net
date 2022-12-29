@@ -1,5 +1,5 @@
 # AMC-Net
-Here we have kept 10 Model architectures and weights as described in the paper.
+Here we have kept 10 Model architectures and weights inside the folder "Model" as described in the paper.
 
 Also kept test samples of the generated results.
 
